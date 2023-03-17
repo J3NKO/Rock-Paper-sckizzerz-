@@ -9,3 +9,4 @@ But it will be good to see the imporvement of my code
 Also the code is not illustrated the best in the slightest, as well as there being a fair amount of dummy code
 
 #100daysofcodechallenge
+#Day1
